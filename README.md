@@ -1,7 +1,7 @@
 <h2 align="center">Jariel Floriano | Software Engineer</h2>
 
 ### Sobre 👋  
-Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bacharel em Sistemas de Informação (2013), pós graduado em Governança de TI (2020), especialização MBA em Business Intelligence (2021). 
+Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bacharel em Sistemas de Informação (2013), pós graduado em Governança de TI (2020), possue especialização MBA em Business Intelligence (2021) e MBA em Arquitetura e Desenvolvimento de Software (Full Cycle), pela Faculidade Brasília. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarielfloriano&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarielfloriano&layout=compact&theme=dracula&custom_title=Linguagens&count_private=true&include_all_commits=true&langs_count=6)  
