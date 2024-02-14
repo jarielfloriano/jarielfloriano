@@ -17,7 +17,7 @@ Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bachar
 </p>
 
 ### Frontend Skills
-<p align="left">
+<p align="right">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -29,7 +29,7 @@ Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bachar
 </p>
 
 ### Database Skills
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
