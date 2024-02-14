@@ -9,8 +9,8 @@ Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bachar
 ### Skills
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg)" alt="laravel" width="40" height="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="aws" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
