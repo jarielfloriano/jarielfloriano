@@ -17,6 +17,7 @@ Apaixonado por tecnologia e desenvolvimento de sistemas para internet, é bachar
 </p>
 
 <p align="right">
+  
   ### Frontend Skills
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
